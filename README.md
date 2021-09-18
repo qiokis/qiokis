@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @qiokis
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anton Pechkin (@qiokis)
+- 🎓 Currently studying at ITMO
+- 💼 Looking for a job
+- 🌱 I’m currently learning Django framework
+- 📫 How to reach me Telegram: @qqqioki Mail: a.d.pechkin@yandex.ru
